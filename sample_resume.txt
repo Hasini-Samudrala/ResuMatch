@@ -1,0 +1,25 @@
+Keerthana Pravallika Samudrala
+B.Tech CSE, IIIT Bangalore (2024-2028)
+Email: keerthana@iiitb.ac.in | GitHub: github.com/keerthana-s
+
+EDUCATION
+IIIT Bangalore — B.Tech Computer Science — GPA 8.7/10
+
+SKILLS
+Programming: Python, C++, Java
+Web: HTML, CSS, JavaScript, React basics
+Tools: Git, VS Code, Linux
+Databases: MySQL basics
+
+PROJECTS
+1. News Summarizer Tool (Python, Gemini API)
+   - Built a CLI tool that fetches news headlines and uses AI to summarize them
+   - Integrated Google Gemini API for sentiment analysis of news articles
+
+2. Student Grade Tracker (Python, Flask)
+   - Built a web app to track semester grades with visual charts
+   - Used SQLite database for data persistence
+
+EXTRACURRICULARS
+- Member, ACM Student Chapter
+- Volunteered at CodeDay hackathon as mentor

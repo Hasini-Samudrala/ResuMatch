@@ -1,0 +1,20 @@
+Junior Python Developer — TechStart Inc.
+
+We are looking for a Junior Python Developer to join our backend team.
+
+Requirements:
+- Proficiency in Python 3 and object-oriented programming
+- Experience with REST APIs and web services
+- Familiarity with Django or Flask web frameworks
+- Understanding of SQL databases (PostgreSQL preferred)
+- Knowledge of Git version control
+- Basic understanding of Docker and containerization
+- Good communication and teamwork skills
+- Ability to write clean, well-documented code
+- Problem-solving mindset
+- Willingness to learn and adapt
+
+Nice to have:
+- Experience with cloud platforms (AWS or GCP)
+- Knowledge of CI/CD pipelines
+- Familiarity with Agile/Scrum methodology
